@@ -1,5 +1,5 @@
 {
-    "name": "futuremandigital/wordpress-ajax-load-more-preloaded",
+    "name": "futuremandigital/ajax-load-more-preloaded",
     "description": "AJAX Load More Preloaded Add-on repo with composer.json for Bedrock.",
     "type": "wordpress-plugin",
     "license": "GPL-3.0",
