@@ -1,0 +1,14 @@
+{
+    "name": "futuremandigital/wordpress-ajax-load-more-preloaded",
+    "description": "AJAX Load More Preloaded Add-on repo with composer.json for Bedrock.",
+    "type": "wordpress-plugin",
+    "license": "GPL-3.0",
+    "minimum-stability": "dev",
+    "require": {
+      "php": ">=5.3",
+      "composer/installers": "~1.0"
+    },
+    "extra": {
+      "installer-name": "wordpress-ajax-load-more-preloaded"
+    }
+  }
